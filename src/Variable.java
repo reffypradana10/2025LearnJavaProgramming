@@ -17,7 +17,7 @@ public class Variable {
         var firstname = "Rephiii";
         var lastname = "Pradana";
 
-        final String nama = "Refi Yusuf Pradana";
+        final String nama = "Reffy Yusuf Pradana";
         System.out.println(nama);
     }
 }
