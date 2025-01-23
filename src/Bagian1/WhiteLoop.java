@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class WhiteLoop {
 
     public static void main(String[] args) {

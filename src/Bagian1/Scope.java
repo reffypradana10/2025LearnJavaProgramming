@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class Scope {
     public static void main(String[] args) {
         SayHello("rephi");

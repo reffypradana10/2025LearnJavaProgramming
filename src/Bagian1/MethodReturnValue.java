@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class MethodReturnValue {
     public static void main(String[] args) {
         System.out.println(sum(100,200));

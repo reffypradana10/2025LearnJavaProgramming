@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class TipeDataString {
     public static void main(String[] args) {
         String firstName = "Refi Yusuf Pradana";

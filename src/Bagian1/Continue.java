@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class Continue {
     public static void main(String[] args) {
         for(var counter = 1;counter <= 100;counter++){

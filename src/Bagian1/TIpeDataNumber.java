@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class TIpeDataNumber {
     public static void main(String[] args) {
         byte iniByte = 100;

@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class KonversiNumber {
     public static void main(String[] args) {
 

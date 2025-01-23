@@ -1,3 +1,5 @@
+package Bagian1;
+
 public class DoWhileLoop {
     public static void main(String[] args) {
         var counter = 1;
