@@ -11,7 +11,9 @@ public class PersonApp {
 
 
         Person person2 = new Person("Budi","Blitar");
-        Person person3;
+        Person person3 = new Person();
+        person3.name = "Bulan";
+        person3.sayHello(person1.name);
 
         person2.sayHello("Sisca");
 
