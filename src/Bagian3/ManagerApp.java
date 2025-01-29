@@ -8,5 +8,8 @@ public class ManagerApp {
 
         var vp = new VicePresident("Joko");
         vp.sayHello(manager.name);
+
+        System.out.println(manager);
+        System.out.println(manager.toString());
     }
 }
