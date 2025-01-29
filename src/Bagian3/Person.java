@@ -6,9 +6,9 @@ class Person {
     final String country = "Indonesia";
 
     // constructor
-    Person (String paramName, String paramAdress){
-        name = paramName;
-        address = paramAdress;
+    Person (String name, String address){
+        name = name;
+        address = address;
     }
 
     // constructor overloading 1
@@ -22,8 +22,8 @@ class Person {
     }
 
 
-    void sayHello(String paramName){
-        System.out.println("Hello " + paramName + ", My name is " + name);
+    void sayHello(String name){
+        System.out.println("Hello " + name + ", My name is " + name);
     }
 }
 
