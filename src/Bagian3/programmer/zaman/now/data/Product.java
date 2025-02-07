@@ -2,10 +2,10 @@ package Bagian3.programmer.zaman.now.data;
 
 public class Product {
 
-    String name;
-    int price;
+    public String name;
+    public int price;
 
-    Product(String name, int price){
+    public Product(String name, int price){
         this.name = name;
         this.price = price;
     }
