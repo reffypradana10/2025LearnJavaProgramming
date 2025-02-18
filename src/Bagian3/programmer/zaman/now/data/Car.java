@@ -5,4 +5,8 @@ public interface Car extends HasBrand{
 
     int getTire();
 
+    default boolean isBig(){
+        return false;
+    }
+
 }
